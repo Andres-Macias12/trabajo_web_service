@@ -1,0 +1,17 @@
+{
+  "name": "todo-task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veronica Ospina",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^6.10.0",
+    "node-env-file": "^0.1.8",
+    "todo-task": "file:"
+  }
+}
